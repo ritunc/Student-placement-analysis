@@ -1,6 +1,8 @@
 📊 Student Placement Outcomes Project¶
 📝 Objective
-Analyze various student-related features (CGPA, academic performance, communication skills, etc.) to identify key factors affecting placement outcomes.
+Analyze various student-related features (CGPA, academic performance, communication skills, etc.) to identify key factors 
+affecting placement outcomes.
+
 
 📁 Dataset Info
 Columns: CGPA, Communication Skills, Internship Experience, Placement Status, etc.
