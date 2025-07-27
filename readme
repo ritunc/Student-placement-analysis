@@ -1,0 +1,28 @@
+📊 Student Placement Outcomes Project¶
+📝 Objective
+Analyze various student-related features (CGPA, academic performance, communication skills, etc.) to identify key factors affecting placement outcomes.
+
+📁 Dataset Info
+Columns: CGPA, Communication Skills, Internship Experience, Placement Status, etc.
+Source: College training records
+
+🔍 Methods Used
+Data cleaning (handling outliers, null values)
+Exploratory Data Analysis (EDA)
+Correlation Analysis
+Visualizations
+
+💡 Key Insights¶
+CGPA, Previous semester results and communication skills have strong correlation with placement
+Academic performance and extra-curricular scores have minimal influence
+
+📌 Conclusion¶
+Based on the analysis, CGPA, previous semester results, and communication skills are the most significant factors 
+influencing student placement outcomes. While IQ and project completion also contribute to placement, their impact
+is less substantial compared to the top three factors.
+
+
+
+
+
+
